@@ -48,7 +48,7 @@ Without proper insights, it becomes difficult to decide which pizzas to promote,
 ## 🖼️ Dashboard Screenshots
 
 ### 📊 Page 1 – Sales Overview
-![Pizza Sales Dashboard - Overview](Screenshot%202025-08-30%20212630.png)
+![Pizza Sales Dashboard - Overview](https://github.com/Vamsi1702/Pizza-Sales-Report/blob/main/Home%20Page.png)
 
 ### 📊 Page 2 – Best & Worst Sellers
 ![Pizza Sales Dashboard - Best/Worst](Screenshot%202025-08-30%20212737.png)
